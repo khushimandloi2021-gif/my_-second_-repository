@@ -1,4 +1,5 @@
 # my_-second_-repository
+
 A Python terminal game where you find hidden treasure in a 3x3 grid with 3 chances. Built using random module and 2D lists.
 
 
